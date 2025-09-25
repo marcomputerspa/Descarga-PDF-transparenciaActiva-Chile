@@ -1,0 +1,5 @@
+pip install pandas requests urllib3
+
+py pip install pandas requests urllib3
+
+python -m pip install pandas requests urllib3

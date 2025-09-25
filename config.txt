@@ -1,0 +1,14 @@
+carpeta_descargas=descargas
+csv_folder=csvs
+col_enlace=
+eliminar_csv_al_final=false
+carpeta_logs=logs
+usar_prefijo_columna=false
+tipo_prefijo=prefijo
+columna_prefijo=
+Nombre_de_la_carpeta=
+separador_prefijo=_
+usar_carpeta_combinada=false
+columna_carpeta_1=
+columna_carpeta_2=
+separador_carpeta_combinada=_
